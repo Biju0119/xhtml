@@ -1,0 +1,42 @@
+// Brand colors
+//––––––––––––––––––––––––––––––––––––––––––––––––––
+
+$color1	 	: #10a274 !default;
+$color2	 	: #292b2a !default;
+$font-color : #595654 !default;
+$font-dark 	: #292b2a !default;
+
+$blue:       #4078c0 !default;
+$gray-light: #ddd    !default;
+$gray:       #767676 !default;
+$gray-dark:  #333    !default;
+
+// Line height
+$base-line-height: 1.4;
+$heading-line-height: 1.2;
+
+// Other Sizes
+$base-border-radius: 3px;
+$base-spacing: $base-line-height * 1em;
+$small-spacing: $base-spacing / 2;
+$base-z-index: 0;
+
+// Border
+$base-border-color: $gray-light;
+$base-border: 1px solid $base-border-color;
+
+
+// Font stack
+//––––––––––––––––––––––––––––––––––––––––––––––––––
+$body-font: $proxima-nova-light !default;
+$phone-font: 'Oswald', sans-serif;
+
+// The base body size
+//––––––––––––––––––––––––––––––––––––––––––––––––––
+$body-font-size: 16px !default;
+
+// Monospace font stack
+//––––––––––––––––––––––––––––––––––––––––––––––––––
+$mono-font: Consolas, "Liberation Mono", Menlo, Courier, monospace !default;
+
+
